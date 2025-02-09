@@ -7,7 +7,7 @@
 *.lo
 *.o
 *.obj
-
+server.dSYM/
 # Precompiled Headers
 *.gch
 *.pch
@@ -31,4 +31,4 @@
 *.exe
 *.out
 *.app
-main
+server
